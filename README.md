@@ -1,2 +1,9 @@
-# Ism2411-lab-11
-ism 2411 lab 11
+# ISM2411 Lab 11 - Customer Dictionary & Lookup
+Name Jacob Frielich
+## How to Run
+
+From this folder:
+
+```bash
+python3 customers.py
+
